@@ -1,4 +1,4 @@
-👋 Hi there! I’m Nitin Upadhyay, a passionate **Spring Boot developer**.
+👋 Hi there! I’m **Nitin Upadhyay**, a passionate **Spring Boot developer**.
 
 **About Me**
 
