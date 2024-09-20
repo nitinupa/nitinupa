@@ -1,10 +1,12 @@
 👋 Hi there! I’m Nitin Upadhyay, a passionate Spring Boot developer.
 
-About Me
+**About Me**
+
 👀 I’m interested in Algorithms and Data Structures.
 🌱 Currently, I'm diving deep into Data Structures and Algorithms using Java.
 💞️ I'm looking to collaborate on exciting Java projects!
-Connect with Me
+
+**Connect with Me**
 Feel free to reach out if you’d like to collaborate or just chat about programming!
 
 📧 Email: (mailto:nitinupa87555@gmail.com)
